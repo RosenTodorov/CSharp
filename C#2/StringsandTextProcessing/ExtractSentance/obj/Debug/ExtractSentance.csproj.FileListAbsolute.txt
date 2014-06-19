@@ -1,0 +1,1 @@
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\bin\Debug\ExtractSentance.exe.config

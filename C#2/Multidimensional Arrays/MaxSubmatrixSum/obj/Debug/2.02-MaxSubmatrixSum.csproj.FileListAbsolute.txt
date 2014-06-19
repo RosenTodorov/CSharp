@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\bin\Debug\MaxSubmatrixSum.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\bin\Debug\MaxSubmatrixSum.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\bin\Debug\MaxSubmatrixSum.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\obj\Debug\2.02-MaxSubmatrixSum.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\obj\Debug\MaxSubmatrixSum.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\MaxSubmatrixSum\obj\Debug\MaxSubmatrixSum.pdb

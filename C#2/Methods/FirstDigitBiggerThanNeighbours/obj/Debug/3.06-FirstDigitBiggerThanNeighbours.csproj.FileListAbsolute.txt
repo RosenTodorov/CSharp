@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\bin\Debug\FirstDigitBiggerThanNeighbours.exe.config
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\obj\Debug\3.06-FirstDigitBiggerThanNeighbours.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\bin\Debug\FirstDigitBiggerThanNeighbours.exe
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\bin\Debug\FirstDigitBiggerThanNeighbours.pdb
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\obj\Debug\FirstDigitBiggerThanNeighbours.exe
+d:\user\documents\visual studio 2012\Projects\Methods\FirstDigitBiggerThanNeighbours\obj\Debug\FirstDigitBiggerThanNeighbours.pdb

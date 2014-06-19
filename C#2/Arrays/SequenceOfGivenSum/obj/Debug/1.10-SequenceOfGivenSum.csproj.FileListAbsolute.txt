@@ -1,0 +1,15 @@
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\obj\Debug\1.10-SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb
+D:\Telerik\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+D:\Telerik\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+D:\Telerik\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SequenceOfGivenSum\obj\Debug\1.10-SequenceOfGivenSum.csprojResolveAssemblyReference.cache

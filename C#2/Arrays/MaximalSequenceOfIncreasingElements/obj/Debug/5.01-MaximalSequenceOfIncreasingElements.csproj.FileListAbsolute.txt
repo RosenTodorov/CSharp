@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\obj\Debug\5.01-MaximalSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.pdb

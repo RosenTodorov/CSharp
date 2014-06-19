@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\SumOfStringElements\bin\Debug\SumOfStringElements.exe.config
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\SumOfStringElements\bin\Debug\SumOfStringElements.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\SumOfStringElements\bin\Debug\SumOfStringElements.pdb
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\SumOfStringElements\obj\Debug\SumOfStringElements.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\SumOfStringElements\obj\Debug\SumOfStringElements.pdb

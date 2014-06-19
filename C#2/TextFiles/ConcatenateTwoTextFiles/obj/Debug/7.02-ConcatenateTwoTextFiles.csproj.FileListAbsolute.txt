@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe.config
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.pdb
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\obj\Debug\7.02-ConcatenateTwoTextFiles.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.exe
+d:\user\documents\visual studio 2012\Projects\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\bin\Debug\UsingClassesAndObjects.exe.config
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\bin\Debug\UsingClassesAndObjects.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\bin\Debug\UsingClassesAndObjects.pdb
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\obj\Debug\5.01-LeapYear.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\obj\Debug\UsingClassesAndObjects.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\UsingClassesAndObjects\obj\Debug\UsingClassesAndObjects.pdb

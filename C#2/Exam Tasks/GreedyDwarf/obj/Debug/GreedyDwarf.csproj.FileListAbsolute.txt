@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\bin\Debug\GreedyDwarf.exe
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\bin\Debug\GreedyDwarf.pdb
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\obj\Debug\GreedyDwarf.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\obj\Debug\GreedyDwarf.exe
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\GreedyDwarf\obj\Debug\GreedyDwarf.pdb

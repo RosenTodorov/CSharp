@@ -1,0 +1,9 @@
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.exe.config
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.pdb
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\obj\Debug\8.05-UpcaseTag.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.pdb

@@ -1,0 +1,3 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.05-HexadeciamalToDecimal\bin\Debug\4.05-HexadeciamalToDecimal.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.05-HexadeciamalToDecimal\obj\Debug\4.05-HexadeciamalToDecimal.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.05-HexadeciamalToDecimal\obj\Debug\4.05-HexadeciamalToDecimal.pdb

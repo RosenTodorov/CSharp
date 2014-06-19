@@ -1,0 +1,1 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\CountAndPrintWords\bin\Debug\CountAndPrintWords.exe.config

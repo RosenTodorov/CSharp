@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\obj\Debug\1.11-BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb

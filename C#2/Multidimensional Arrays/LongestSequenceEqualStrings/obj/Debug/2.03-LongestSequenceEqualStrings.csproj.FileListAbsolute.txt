@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\bin\Debug\LongestSequenceEqualStrings.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\bin\Debug\LongestSequenceEqualStrings.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\bin\Debug\LongestSequenceEqualStrings.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\obj\Debug\2.03-LongestSequenceEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\obj\Debug\LongestSequenceEqualStrings.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\obj\Debug\LongestSequenceEqualStrings.pdb

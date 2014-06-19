@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\obj\Debug\7.09-DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

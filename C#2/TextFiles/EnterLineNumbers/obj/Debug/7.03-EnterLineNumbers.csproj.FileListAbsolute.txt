@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\bin\Debug\EnterLineNumbers.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\bin\Debug\EnterLineNumbers.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\bin\Debug\EnterLineNumbers.pdb
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\obj\Debug\7.03-EnterLineNumbers.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\obj\Debug\EnterLineNumbers.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\EnterLineNumbers\obj\Debug\EnterLineNumbers.pdb

@@ -1,0 +1,2 @@
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\Exam Tasks\bin\Debug\Exam Tasks.exe.config
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.csprojResolveAssemblyReference.cache

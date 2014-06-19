@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\bin\Debug\VariationsNK.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\bin\Debug\VariationsNK.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\bin\Debug\VariationsNK.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\obj\Debug\VariationsNK.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\obj\Debug\VariationsNK.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\VariationsNK\obj\Debug\VariationsNK.pdb

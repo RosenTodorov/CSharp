@@ -1,0 +1,12 @@
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\1.01-ArrayOf20Elements.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Telerik\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Telerik\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Telerik\Arrays\Arrays\obj\Debug\Arrays.pdb

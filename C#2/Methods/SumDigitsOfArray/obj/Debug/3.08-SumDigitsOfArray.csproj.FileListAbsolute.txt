@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\bin\Debug\SumDigitsOfArray.exe.config
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\bin\Debug\SumDigitsOfArray.exe
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\bin\Debug\SumDigitsOfArray.pdb
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\obj\Debug\3.08-SumDigitsOfArray.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\obj\Debug\SumDigitsOfArray.exe
+d:\user\documents\visual studio 2012\Projects\Methods\SumDigitsOfArray\obj\Debug\SumDigitsOfArray.pdb

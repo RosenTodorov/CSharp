@@ -1,0 +1,12 @@
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.exe.config
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.pdb
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\8.07-EncodingDecodingOfAMessage.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\EncodingDecodingOfAMessage.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\EncodingDecodingOfAMessage.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\EncodingDecodingOfAMessage.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\EncodingDecodingOfAMessage.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\EncodingDecodingOfAMessage\obj\Debug\8.07-EncodingDecodingOfAMessage.csprojResolveAssemblyReference.cache

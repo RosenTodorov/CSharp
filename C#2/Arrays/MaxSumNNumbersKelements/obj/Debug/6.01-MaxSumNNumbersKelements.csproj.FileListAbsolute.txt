@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\bin\Debug\MaxSumNNumbersKelements.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\obj\Debug\6.01-MaxSumNNumbersKelements.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\bin\Debug\MaxSumNNumbersKelements.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\bin\Debug\MaxSumNNumbersKelements.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\obj\Debug\MaxSumNNumbersKelements.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaxSumNNumbersKelements\obj\Debug\MaxSumNNumbersKelements.pdb

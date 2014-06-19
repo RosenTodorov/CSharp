@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb

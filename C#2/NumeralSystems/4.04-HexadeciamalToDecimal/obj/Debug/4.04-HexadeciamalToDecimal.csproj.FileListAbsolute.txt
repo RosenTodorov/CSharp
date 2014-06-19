@@ -1,0 +1,1 @@
+c:\users\rosen\documents\visual studio 2012\Projects\NumeralSystems\4.04-HexadeciamalToDecimal\bin\Debug\4.04-HexadeciamalToDecimal.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\bin\Debug\SubsetOfElements.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\bin\Debug\SubsetOfElements.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\bin\Debug\SubsetOfElements.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\obj\Debug\1.17-SubsetOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\obj\Debug\SubsetOfElements.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetOfElements\obj\Debug\SubsetOfElements.pdb

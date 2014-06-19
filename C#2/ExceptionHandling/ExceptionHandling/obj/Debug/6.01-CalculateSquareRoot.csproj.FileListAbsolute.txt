@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\6.01-CalculateSquareRoot.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

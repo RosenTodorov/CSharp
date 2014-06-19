@@ -1,0 +1,3 @@
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.exe
+D:\user\Documents\Visual Studio 2012\Projects\Arrays\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.pdb

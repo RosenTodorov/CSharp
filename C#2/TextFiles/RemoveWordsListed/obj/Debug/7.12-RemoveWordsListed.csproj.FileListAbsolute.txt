@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\RemoveWordsListed\bin\Debug\RemoveWordsListed.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\RemoveWordsListed\bin\Debug\RemoveWordsListed.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\RemoveWordsListed\bin\Debug\RemoveWordsListed.pdb
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\RemoveWordsListed\obj\Debug\RemoveWordsListed.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\RemoveWordsListed\obj\Debug\RemoveWordsListed.pdb

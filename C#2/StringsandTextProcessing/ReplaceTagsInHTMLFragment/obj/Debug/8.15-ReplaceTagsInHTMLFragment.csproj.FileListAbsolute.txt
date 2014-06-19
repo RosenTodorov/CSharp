@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceTagsInHTMLFragment\bin\Debug\ReplaceTagsInHTMLFragment.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceTagsInHTMLFragment\bin\Debug\ReplaceTagsInHTMLFragment.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceTagsInHTMLFragment\bin\Debug\ReplaceTagsInHTMLFragment.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceTagsInHTMLFragment\obj\Debug\ReplaceTagsInHTMLFragment.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceTagsInHTMLFragment\obj\Debug\ReplaceTagsInHTMLFragment.pdb

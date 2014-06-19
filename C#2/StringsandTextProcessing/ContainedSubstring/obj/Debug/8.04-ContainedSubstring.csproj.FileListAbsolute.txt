@@ -1,0 +1,9 @@
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\bin\Debug\ContainedSubstring.exe.config
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\bin\Debug\ContainedSubstring.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\bin\Debug\ContainedSubstring.pdb
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\obj\Debug\8.04-ContainedSubstring.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\obj\Debug\ContainedSubstring.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\ContainedSubstring\obj\Debug\ContainedSubstring.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ContainedSubstring\bin\Debug\ContainedSubstring.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ContainedSubstring\obj\Debug\ContainedSubstring.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ContainedSubstring\obj\Debug\ContainedSubstring.pdb

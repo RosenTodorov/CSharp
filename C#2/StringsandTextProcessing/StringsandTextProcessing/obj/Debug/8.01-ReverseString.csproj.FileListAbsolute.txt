@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.pdb
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\8.01-ReverseString.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb

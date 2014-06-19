@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\bin\Debug\UsedWordsInString.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\bin\Debug\UsedWordsInString.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\bin\Debug\UsedWordsInString.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\obj\Debug\8.22-UsedWordsInString.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\obj\Debug\UsedWordsInString.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\UsedWordsInString\obj\Debug\UsedWordsInString.pdb

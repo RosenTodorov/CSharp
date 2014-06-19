@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+d:\user\documents\visual studio 2012\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb

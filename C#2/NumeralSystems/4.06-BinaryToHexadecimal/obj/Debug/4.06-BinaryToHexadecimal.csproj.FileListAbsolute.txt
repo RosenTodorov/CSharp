@@ -1,0 +1,5 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\bin\Debug\4.06-BinaryToHexadecimal.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\bin\Debug\4.06-BinaryToHexadecimal.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\bin\Debug\4.06-BinaryToHexadecimal.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\obj\Debug\4.06-BinaryToHexadecimal.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\obj\Debug\4.06-BinaryToHexadecimal.pdb

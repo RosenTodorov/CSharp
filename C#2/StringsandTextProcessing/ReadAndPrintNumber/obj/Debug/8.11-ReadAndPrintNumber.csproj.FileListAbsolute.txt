@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\bin\Debug\ReadAndPrintNumber.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\bin\Debug\ReadAndPrintNumber.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\bin\Debug\ReadAndPrintNumber.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\obj\Debug\8.11-ReadAndPrintNumber.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\obj\Debug\ReadAndPrintNumber.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReadAndPrintNumber\obj\Debug\ReadAndPrintNumber.pdb

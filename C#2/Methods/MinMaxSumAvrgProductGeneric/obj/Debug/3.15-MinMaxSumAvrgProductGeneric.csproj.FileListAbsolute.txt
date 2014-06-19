@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\bin\Debug\MinMaxSumAvrgProductGeneric.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\bin\Debug\MinMaxSumAvrgProductGeneric.exe
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\bin\Debug\MinMaxSumAvrgProductGeneric.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\obj\Debug\3.15-MinMaxSumAvrgProductGeneric.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\obj\Debug\MinMaxSumAvrgProductGeneric.exe
+D:\user\Documents\Visual Studio 2012\Projects\Methods\MinMaxSumAvrgProductGeneric\obj\Debug\MinMaxSumAvrgProductGeneric.pdb

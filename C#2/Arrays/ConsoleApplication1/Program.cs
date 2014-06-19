@@ -1,0 +1,9 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program{    static void MergeSort(int[] a, int len)    {        int count=len;        if (count == 2)                  {            int temp;            if (a[0] > a[1])            {                temp = a[0];                a[0] = a[1];                a[1] = temp;            }        }        else if(len>2)                       {            count = len / 2;            int[] left = new int[count];            int[] right = new int[count+1];            for (int i = 0; i < count; i++)            {                left[i] = a[i];            }            for (int i = count; i < len; i++)            {                right[i-count] = a[i];            }            MergeSort(left, count);            MergeSort(right, len - count);            int p=0;                                        //Sled kato bade napravena razmqnata na elementite zapo4va popalwane na masiwa            int v=0;            for(int k=0;k<len;k++)            {                if(p<count&&v<=count&&left[p]<=right[v])                {                    a[k]=left[p];                    p++;                }                else                {                    a[k]=right[v];                    v++;                }            }        }    }    static void Main()    {        int n = int.Parse(Console.ReadLine());        int[] array = new int[n];        for (int i = 0; i < n; i++)        {            array[i] = int.Parse(Console.ReadLine());        }        MergeSort(array, n);        for (int i = 0; i < n; i++)        {            Console.Write(array[i]);        }    }}

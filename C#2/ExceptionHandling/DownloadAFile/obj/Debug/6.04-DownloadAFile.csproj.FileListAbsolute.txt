@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\bin\Debug\DownloadAFile.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\bin\Debug\DownloadAFile.exe
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\bin\Debug\DownloadAFile.pdb
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\obj\Debug\6.04-DownloadAFile.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\obj\Debug\DownloadAFile.exe
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\DownloadAFile\obj\Debug\DownloadAFile.pdb

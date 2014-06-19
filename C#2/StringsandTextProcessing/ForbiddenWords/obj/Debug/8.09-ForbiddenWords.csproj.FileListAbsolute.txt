@@ -1,0 +1,9 @@
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\obj\Debug\8.09-ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.pdb

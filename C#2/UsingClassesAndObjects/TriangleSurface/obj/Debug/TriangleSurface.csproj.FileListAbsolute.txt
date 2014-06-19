@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config

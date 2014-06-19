@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+c:\users\rosen\documents\visual studio 2012\Projects\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb

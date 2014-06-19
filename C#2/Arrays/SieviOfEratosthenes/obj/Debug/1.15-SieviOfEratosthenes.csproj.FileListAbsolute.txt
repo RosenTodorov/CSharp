@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\bin\Debug\SieviOfEratosthenes.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\bin\Debug\SieviOfEratosthenes.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\bin\Debug\SieviOfEratosthenes.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\obj\Debug\1.15-SieviOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\obj\Debug\SieviOfEratosthenes.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SieviOfEratosthenes\obj\Debug\SieviOfEratosthenes.pdb

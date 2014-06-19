@@ -1,0 +1,1 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.pdb
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\obj\Debug\5.04-TriangleSurface.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.pdb

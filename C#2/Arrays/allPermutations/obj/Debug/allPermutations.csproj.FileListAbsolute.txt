@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\bin\Debug\allPermutations.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\bin\Debug\allPermutations.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\bin\Debug\allPermutations.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\obj\Debug\allPermutations.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\obj\Debug\allPermutations.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\allPermutations\obj\Debug\allPermutations.pdb

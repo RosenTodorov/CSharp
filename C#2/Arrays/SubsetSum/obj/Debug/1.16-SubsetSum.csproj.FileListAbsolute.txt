@@ -1,0 +1,12 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\Telerik\Arrays\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\Telerik\Arrays\SubsetSum\bin\Debug\SubsetSum.exe
+D:\Telerik\Arrays\SubsetSum\bin\Debug\SubsetSum.pdb
+D:\Telerik\Arrays\SubsetSum\obj\Debug\1.16-SubsetSum.csprojResolveAssemblyReference.cache
+D:\Telerik\Arrays\SubsetSum\obj\Debug\SubsetSum.exe
+D:\Telerik\Arrays\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\SubsetSum\obj\Debug\1.16-SubsetSum.csprojResolveAssemblyReference.cache

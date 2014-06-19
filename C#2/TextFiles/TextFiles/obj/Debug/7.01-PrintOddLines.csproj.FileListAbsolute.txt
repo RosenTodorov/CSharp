@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\bin\Debug\TextFiles.exe.config
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\bin\Debug\TextFiles.exe
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\bin\Debug\TextFiles.pdb
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\obj\Debug\7.01-PrintOddLines.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\obj\Debug\TextFiles.exe
+d:\user\documents\visual studio 2012\Projects\TextFiles\TextFiles\obj\Debug\TextFiles.pdb

@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\CalculatesDates\bin\Debug\CalculatesDates.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\CalculatesDates\bin\Debug\CalculatesDates.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\CalculatesDates\bin\Debug\CalculatesDates.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\CalculatesDates\obj\Debug\CalculatesDates.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\CalculatesDates\obj\Debug\CalculatesDates.pdb

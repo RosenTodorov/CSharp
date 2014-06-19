@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceIdenticalLetters\bin\Debug\ReplaceIdenticalLetters.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceIdenticalLetters\bin\Debug\ReplaceIdenticalLetters.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceIdenticalLetters\bin\Debug\ReplaceIdenticalLetters.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceIdenticalLetters\obj\Debug\ReplaceIdenticalLetters.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\ReplaceIdenticalLetters\obj\Debug\ReplaceIdenticalLetters.pdb

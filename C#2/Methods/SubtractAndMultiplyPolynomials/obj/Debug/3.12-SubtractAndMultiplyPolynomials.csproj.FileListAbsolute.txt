@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\Methods\SubtractAndMultiplyPolynomials\bin\Debug\SubtractAndMultiplyPolynomials.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Methods\SubtractAndMultiplyPolynomials\bin\Debug\SubtractAndMultiplyPolynomials.exe
+D:\user\Documents\Visual Studio 2012\Projects\Methods\SubtractAndMultiplyPolynomials\bin\Debug\SubtractAndMultiplyPolynomials.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Methods\SubtractAndMultiplyPolynomials\obj\Debug\SubtractAndMultiplyPolynomials.exe
+D:\user\Documents\Visual Studio 2012\Projects\Methods\SubtractAndMultiplyPolynomials\obj\Debug\SubtractAndMultiplyPolynomials.pdb

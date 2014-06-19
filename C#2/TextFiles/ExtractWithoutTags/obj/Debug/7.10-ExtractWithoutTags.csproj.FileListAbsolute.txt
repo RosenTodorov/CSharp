@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\bin\Debug\ExtractWithoutTags.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\bin\Debug\ExtractWithoutTags.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\bin\Debug\ExtractWithoutTags.pdb
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\obj\Debug\7.10-ExtractWithoutTags.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\obj\Debug\ExtractWithoutTags.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ExtractWithoutTags\obj\Debug\ExtractWithoutTags.pdb

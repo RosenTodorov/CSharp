@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\AlphabeticalOrderOfWords\bin\Debug\AlphabeticalOrderOfWords.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\AlphabeticalOrderOfWords\bin\Debug\AlphabeticalOrderOfWords.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\AlphabeticalOrderOfWords\bin\Debug\AlphabeticalOrderOfWords.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\AlphabeticalOrderOfWords\obj\Debug\AlphabeticalOrderOfWords.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\AlphabeticalOrderOfWords\obj\Debug\AlphabeticalOrderOfWords.pdb

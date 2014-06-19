@@ -1,0 +1,5 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\AllCombinations\bin\Debug\AllCombinations.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\AllCombinations\bin\Debug\AllCombinations.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\AllCombinations\bin\Debug\AllCombinations.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\AllCombinations\obj\Debug\AllCombinations.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\AllCombinations\obj\Debug\AllCombinations.pdb

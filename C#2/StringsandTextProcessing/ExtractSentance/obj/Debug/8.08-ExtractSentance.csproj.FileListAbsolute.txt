@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\bin\Debug\ExtractSentance.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\obj\Debug\8.08-ExtractSentance.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\bin\Debug\ExtractSentance.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\bin\Debug\ExtractSentance.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\obj\Debug\ExtractSentance.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\ExtractSentance\obj\Debug\ExtractSentance.pdb

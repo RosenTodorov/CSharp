@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\bin\Debug\RemainingSortedArray.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\bin\Debug\RemainingSortedArray.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\bin\Debug\RemainingSortedArray.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\obj\Debug\1.18-RemainingSortedArray.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\obj\Debug\RemainingSortedArray.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\New Folder\HomeWork\Arrays\RemainingSortedArray\obj\Debug\RemainingSortedArray.pdb

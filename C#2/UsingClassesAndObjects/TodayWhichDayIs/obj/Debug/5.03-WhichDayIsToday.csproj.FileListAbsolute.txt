@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TodayWhichDayIs\bin\Debug\TodayWhichDayIs.exe.config
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TodayWhichDayIs\bin\Debug\TodayWhichDayIs.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TodayWhichDayIs\bin\Debug\TodayWhichDayIs.pdb
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TodayWhichDayIs\obj\Debug\TodayWhichDayIs.exe
+d:\user\documents\visual studio 2012\Projects\UsingClassesAndObjects\TodayWhichDayIs\obj\Debug\TodayWhichDayIs.pdb

@@ -1,0 +1,1 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\LongestSequenceEqualStrings\bin\Debug\LongestSequenceEqualStrings.exe.config

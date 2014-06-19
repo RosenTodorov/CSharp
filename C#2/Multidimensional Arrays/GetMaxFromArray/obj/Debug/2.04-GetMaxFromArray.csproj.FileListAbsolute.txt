@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\bin\Debug\GetMaxFromArray.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\bin\Debug\GetMaxFromArray.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\bin\Debug\GetMaxFromArray.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\obj\Debug\2.04-GetMaxFromArray.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\obj\Debug\GetMaxFromArray.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Multidimensional Arrays\GetMaxFromArray\obj\Debug\GetMaxFromArray.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\obj\Debug\KaspichanNumbers.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+d:\user\documents\visual studio 2012\Projects\Exam Tasks\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

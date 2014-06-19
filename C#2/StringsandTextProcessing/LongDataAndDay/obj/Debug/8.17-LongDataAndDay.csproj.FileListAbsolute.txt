@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\LongDataAndDay\bin\Debug\LongDataAndDay.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\LongDataAndDay\bin\Debug\LongDataAndDay.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\LongDataAndDay\bin\Debug\LongDataAndDay.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\LongDataAndDay\obj\Debug\LongDataAndDay.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\LongDataAndDay\obj\Debug\LongDataAndDay.pdb

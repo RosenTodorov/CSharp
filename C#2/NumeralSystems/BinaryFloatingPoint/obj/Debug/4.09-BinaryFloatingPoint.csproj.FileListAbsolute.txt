@@ -1,0 +1,5 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\bin\Debug\QuantityOfNumberInArray.exe.config
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\bin\Debug\QuantityOfNumberInArray.exe
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\bin\Debug\QuantityOfNumberInArray.pdb
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\obj\Debug\3.04-QuantityOfNumberInArray.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\obj\Debug\QuantityOfNumberInArray.exe
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\obj\Debug\QuantityOfNumberInArray.pdb

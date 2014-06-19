@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2012\Projects\Methods\QuantityOfNumberInArray\bin\Debug\QuantityOfNumberInArray.exe.config

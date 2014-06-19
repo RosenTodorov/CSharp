@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2012\Projects\StringsandTextProcessing\EncodingDecodingOfAMessage\bin\Debug\EncodingDecodingOfAMessage.exe.config

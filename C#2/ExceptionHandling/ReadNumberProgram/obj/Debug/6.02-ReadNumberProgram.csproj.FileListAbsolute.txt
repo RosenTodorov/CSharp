@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\ExceptionHandling\ReadNumberProgram\bin\Debug\ReadNumberProgram.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\ReadNumberProgram\bin\Debug\ReadNumberProgram.exe
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\ReadNumberProgram\bin\Debug\ReadNumberProgram.pdb
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\ReadNumberProgram\obj\Debug\6.02-ReadNumberProgram.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\ReadNumberProgram\obj\Debug\ReadNumberProgram.exe
+D:\user\Documents\Visual Studio 2012\Projects\ExceptionHandling\ReadNumberProgram\obj\Debug\ReadNumberProgram.pdb

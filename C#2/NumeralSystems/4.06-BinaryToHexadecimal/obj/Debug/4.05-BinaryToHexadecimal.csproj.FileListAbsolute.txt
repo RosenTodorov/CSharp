@@ -1,0 +1,1 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\NumeralSystems\4.06-BinaryToHexadecimal\bin\Debug\4.06-BinaryToHexadecimal.exe.config

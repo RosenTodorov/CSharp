@@ -1,0 +1,9 @@
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\bin\Debug\StringToUnicodeChars.exe.config
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\bin\Debug\StringToUnicodeChars.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\bin\Debug\StringToUnicodeChars.pdb
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\obj\Debug\8.10-StringToUnicodeChars.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\obj\Debug\StringToUnicodeChars.exe
+C:\Users\Rosen\Desktop\C# 2\StringsandTextProcessing\StringToUnicodeChars\obj\Debug\StringToUnicodeChars.pdb
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringToUnicodeChars\bin\Debug\StringToUnicodeChars.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringToUnicodeChars\obj\Debug\StringToUnicodeChars.exe
+D:\user\Documents\Visual Studio 2012\Projects\StringsandTextProcessing\StringToUnicodeChars\obj\Debug\StringToUnicodeChars.pdb

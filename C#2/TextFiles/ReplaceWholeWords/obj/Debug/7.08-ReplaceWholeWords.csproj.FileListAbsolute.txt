@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ReplaceWholeWords\bin\Debug\ReplaceWholeWords.pdb
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ReplaceWholeWords\obj\Debug\ReplaceWholeWords.exe
+D:\user\Documents\Visual Studio 2012\Projects\TextFiles\ReplaceWholeWords\obj\Debug\ReplaceWholeWords.pdb
