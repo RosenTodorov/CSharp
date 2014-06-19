@@ -1,0 +1,9 @@
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\bin\Debug\03_RectanglePlot.exe.config
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\bin\Debug\03_RectanglePlot.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\bin\Debug\03_RectanglePlot.pdb
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\obj\Debug\03_RectanglePlot.csprojResolveAssemblyReference.cache
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\obj\Debug\03_RectanglePlot.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\03_RectanglePlot\obj\Debug\03_RectanglePlot.pdb
+D:\Telerik\Homework\New Folder\3\Operators\03_RectanglePlot\bin\Debug\03_RectanglePlot.exe.config
+D:\Telerik\Homework\New Folder\3\Operators\03_RectanglePlot\obj\Debug\03_RectanglePlot.exe
+D:\Telerik\Homework\New Folder\3\Operators\03_RectanglePlot\obj\Debug\03_RectanglePlot.pdb

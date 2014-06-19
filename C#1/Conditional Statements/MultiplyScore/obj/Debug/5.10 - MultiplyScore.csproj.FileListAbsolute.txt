@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\bin\Debug\MultiplyScore.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\bin\Debug\MultiplyScore.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\bin\Debug\MultiplyScore.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\obj\Debug\5.10 - MultiplyScore.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\obj\Debug\MultiplyScore.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\MultiplyScore\obj\Debug\MultiplyScore.pdb

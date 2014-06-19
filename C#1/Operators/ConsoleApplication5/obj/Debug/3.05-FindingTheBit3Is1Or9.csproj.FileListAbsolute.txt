@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication5\obj\Debug\3.05-FindingTheBit3Is1Or9.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\bin\Debug\OutputMatrix.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\bin\Debug\OutputMatrix.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\bin\Debug\OutputMatrix.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\obj\Debug\6.12 - OutputMatrix.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\obj\Debug\OutputMatrix.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\OutputMatrix\obj\Debug\OutputMatrix.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\bin\Debug\OutputMatrix.exe.config
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\obj\Debug\OutputMatrix.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\obj\Debug\OutputMatrix.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\bin\Debug\OutputMatrix.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\bin\Debug\OutputMatrix.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\OutputMatrix\obj\Debug\6.12 - OutputMatrix.csprojResolveAssemblyReference.cache

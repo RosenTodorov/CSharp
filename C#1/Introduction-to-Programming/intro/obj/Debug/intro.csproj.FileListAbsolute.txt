@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\intro\intro\bin\Debug\intro.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\intro\bin\Debug\intro.exe
+d:\user\documents\visual studio 2012\Projects\intro\intro\bin\Debug\intro.pdb
+d:\user\documents\visual studio 2012\Projects\intro\intro\obj\Debug\intro.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\intro\intro\obj\Debug\intro.exe
+d:\user\documents\visual studio 2012\Projects\intro\intro\obj\Debug\intro.pdb

@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\bin\Debug\ExchangeTheirValues.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\bin\Debug\ExchangeTheirValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\bin\Debug\ExchangeTheirValues.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\obj\Debug\2.11-ExchangeTheirValues.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\obj\Debug\ExchangeTheirValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ExchangeTheirValues\obj\Debug\ExchangeTheirValues.pdb

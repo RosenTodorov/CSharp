@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\BiggestOfThree\obj\Debug\BiggestOfThree.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\BiggestOfThree\bin\Debug\BiggestOfThree.pdb

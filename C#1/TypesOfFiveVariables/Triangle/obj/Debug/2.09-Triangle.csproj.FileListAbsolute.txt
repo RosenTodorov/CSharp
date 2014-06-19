@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\Triangle\bin\Debug\Triangle.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\Triangle\bin\Debug\Triangle.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\Triangle\bin\Debug\Triangle.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\Triangle\obj\Debug\Triangle.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\Triangle\obj\Debug\Triangle.pdb

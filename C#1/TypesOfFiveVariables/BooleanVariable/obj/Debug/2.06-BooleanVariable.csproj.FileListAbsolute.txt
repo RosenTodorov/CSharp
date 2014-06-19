@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\obj\Debug\2.06-BooleanVariable.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

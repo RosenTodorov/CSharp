@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\bin\Debug\3.06-.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\obj\Debug\3.06-.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\obj\Debug\3.06-.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\bin\Debug\3.06-.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\bin\Debug\3.06-.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\3.06-\obj\Debug\3.06-Circle.csprojResolveAssemblyReference.cache

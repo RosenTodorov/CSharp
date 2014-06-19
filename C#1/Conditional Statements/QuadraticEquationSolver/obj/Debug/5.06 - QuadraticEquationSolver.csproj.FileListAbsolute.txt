@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\obj\Debug\5.06 - QuadraticEquationSolver.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb

@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\bin\Debug\CompareFloatingPointNumber.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\bin\Debug\CompareFloatingPointNumber.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\bin\Debug\CompareFloatingPointNumber.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\obj\Debug\2.03-CompareFloatingPointNumber.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\obj\Debug\CompareFloatingPointNumber.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\CompareFloatingPointNumber\obj\Debug\CompareFloatingPointNumber.pdb

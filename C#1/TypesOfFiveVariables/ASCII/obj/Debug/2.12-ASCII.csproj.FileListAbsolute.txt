@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ASCII\bin\Debug\ASCII.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ASCII\bin\Debug\ASCII.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ASCII\bin\Debug\ASCII.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ASCII\obj\Debug\ASCII.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ASCII\obj\Debug\ASCII.pdb

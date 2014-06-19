@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\obj\Debug\6.14 - SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

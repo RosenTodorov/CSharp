@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\bin\Debug\SquareNumber.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\obj\Debug\SquareNumber.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\bin\Debug\SquareNumber.exe
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\bin\Debug\SquareNumber.pdb
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\obj\Debug\SquareNumber.exe
+d:\user\documents\visual studio 2012\Projects\intro\SquareNumber\obj\Debug\SquareNumber.pdb

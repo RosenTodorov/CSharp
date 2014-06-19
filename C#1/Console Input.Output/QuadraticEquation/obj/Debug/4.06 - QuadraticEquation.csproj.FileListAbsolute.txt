@@ -1,0 +1,3 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

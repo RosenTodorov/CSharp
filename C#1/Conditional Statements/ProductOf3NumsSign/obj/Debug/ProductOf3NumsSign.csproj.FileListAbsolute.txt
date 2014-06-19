@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\bin\Debug\ProductOf3NumsSign.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\bin\Debug\ProductOf3NumsSign.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\bin\Debug\ProductOf3NumsSign.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\obj\Debug\ProductOf3NumsSign.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\obj\Debug\ProductOf3NumsSign.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ProductOf3NumsSign\obj\Debug\ProductOf3NumsSign.pdb

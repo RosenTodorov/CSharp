@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\bin\Debug\SubsetSumZero.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\bin\Debug\SubsetSumZero.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\bin\Debug\SubsetSumZero.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\obj\Debug\5.09 - SubsetSumZero.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\obj\Debug\SubsetSumZero.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\SubsetSumZero\obj\Debug\SubsetSumZero.pdb

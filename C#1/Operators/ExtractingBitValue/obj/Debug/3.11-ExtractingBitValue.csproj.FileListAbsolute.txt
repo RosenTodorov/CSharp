@@ -1,0 +1,5 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExtractingBitValue\bin\Debug\ExtractingBitValue.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExtractingBitValue\bin\Debug\ExtractingBitValue.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExtractingBitValue\bin\Debug\ExtractingBitValue.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExtractingBitValue\obj\Debug\ExtractingBitValue.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExtractingBitValue\obj\Debug\ExtractingBitValue.pdb

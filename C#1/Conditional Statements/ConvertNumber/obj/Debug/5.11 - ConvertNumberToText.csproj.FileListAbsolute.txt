@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\bin\Debug\ConvertNumber.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\bin\Debug\ConvertNumber.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\bin\Debug\ConvertNumber.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\obj\Debug\5.11 - ConvertNumberToText.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\obj\Debug\ConvertNumber.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ConvertNumber\obj\Debug\ConvertNumber.pdb

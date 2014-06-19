@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\bin\Debug\5.04 - DescendingValues.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\bin\Debug\5.04 - DescendingValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\bin\Debug\5.04 - DescendingValues.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\obj\Debug\5.04 - DescendingValues.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\obj\Debug\5.04 - DescendingValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\5.04 - DescendingValues\obj\Debug\5.04 - DescendingValues.pdb

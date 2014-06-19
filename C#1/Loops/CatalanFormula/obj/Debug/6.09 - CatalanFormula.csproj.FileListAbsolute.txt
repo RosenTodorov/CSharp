@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\bin\Debug\CatalanFormula.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\bin\Debug\CatalanFormula.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\bin\Debug\CatalanFormula.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\obj\Debug\6.09 - CatalanFormula.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\obj\Debug\CatalanFormula.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\obj\Debug\CatalanFormula.pdb

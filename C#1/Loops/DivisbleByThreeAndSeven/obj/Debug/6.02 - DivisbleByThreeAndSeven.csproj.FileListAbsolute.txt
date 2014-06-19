@@ -1,0 +1,8 @@
+d:\user\documents\visual studio 2012\Projects\Loops\DivisbleByThreeAndSeven\bin\Debug\DivisbleByThreeAndSeven.exe.config
+d:\user\documents\visual studio 2012\Projects\Loops\DivisbleByThreeAndSeven\bin\Debug\DivisbleByThreeAndSeven.exe
+d:\user\documents\visual studio 2012\Projects\Loops\DivisbleByThreeAndSeven\bin\Debug\DivisbleByThreeAndSeven.pdb
+d:\user\documents\visual studio 2012\Projects\Loops\DivisbleByThreeAndSeven\obj\Debug\DivisbleByThreeAndSeven.exe
+d:\user\documents\visual studio 2012\Projects\Loops\DivisbleByThreeAndSeven\obj\Debug\DivisbleByThreeAndSeven.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\DivisbleByThreeAndSeven\bin\Debug\DivisbleByThreeAndSeven.exe.config
+C:\Users\Rosen\Desktop\Telerik\Loops\DivisbleByThreeAndSeven\obj\Debug\DivisbleByThreeAndSeven.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\DivisbleByThreeAndSeven\obj\Debug\DivisbleByThreeAndSeven.pdb

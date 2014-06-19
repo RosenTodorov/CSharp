@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\bin\Debug\mybothnames.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\bin\Debug\mybothnames.exe
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\bin\Debug\mybothnames.pdb
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\obj\Debug\mybothnames.exe
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\obj\Debug\mybothnames.pdb
+d:\user\documents\visual studio 2012\Projects\intro\mybothnames\obj\Debug\mybothnames.csprojResolveAssemblyReference.cache

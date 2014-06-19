@@ -1,0 +1,9 @@
+1. - Visual Studio 2010 (VS 1020) е мощна интегрирана среда за разработка на софту­ерни приложения за Windows и за платформата .NET Framework. VS 2010 поддържа различни езици за програмиране (например C#, VB.NET и C++) и различни технологии за разработка на софтуер (Win32, COM, ASP.NET, ADO.NET Entity Framework, Windows Forms, WPF, Silverlight и още десетки други Windows и .NET технологии). VS 2010 предоставя мощна интегрирана среда за писане на код, компилиране, изпълнение, дебъгване и тестване на приложения, дизайн на потребителски интер­фейс (форми, диалози, уеб страници, визуални контроли и други), моделиране на данни, модели­ране на класове, изпълнение на тестове, пакетиране на приложения и стотици други функции.
+ 
+VS 2010 има безплатна версия наречена Visual Studio 2010 Express Edition, която може да се изтегли безплатно от сайта на Microsoft от адрес http://www.microsoft.com/express/.
+
+
+- Библиотеката MSDN Library представлява официалната документация на Microsoft за всички техни продукти за разработчици и софтуерни технологии. В частност документацията за .NET Framework е част от MSDN Library и е достъпна в Интернет на адрес: http://msdn.microsoft.com/en-us/library/ms229335(VS.100).aspx. 
+
+- Console.WriteLine - Writes the current line terminator to the standard output stream.Supported by the .NET Compact Framework
+  http://msdn.microsoft.com/en-US/library/zdf6yhx5(v=vs.80).aspx

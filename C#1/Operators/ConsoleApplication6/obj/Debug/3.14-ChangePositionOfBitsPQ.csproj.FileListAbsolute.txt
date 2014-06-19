@@ -1,0 +1,3 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

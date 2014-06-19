@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\UnicodeOfCharVariable\bin\Debug\UnicodeOfCharVariable.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\UnicodeOfCharVariable\bin\Debug\UnicodeOfCharVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\UnicodeOfCharVariable\bin\Debug\UnicodeOfCharVariable.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\UnicodeOfCharVariable\obj\Debug\UnicodeOfCharVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\UnicodeOfCharVariable\obj\Debug\UnicodeOfCharVariable.pdb

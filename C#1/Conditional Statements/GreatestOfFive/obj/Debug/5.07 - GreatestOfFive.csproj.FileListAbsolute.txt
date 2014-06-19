@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\bin\Debug\GreatestOfFive.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\bin\Debug\GreatestOfFive.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\bin\Debug\GreatestOfFive.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\obj\Debug\5.07 - GreatestOfFive.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\obj\Debug\GreatestOfFive.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\GreatestOfFive\obj\Debug\GreatestOfFive.pdb

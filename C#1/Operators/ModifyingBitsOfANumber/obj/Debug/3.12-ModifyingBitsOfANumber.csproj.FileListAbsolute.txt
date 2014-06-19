@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\bin\Debug\ModifyingBitsOfANumber.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\obj\Debug\3.12-ModifyingBitsOfANumber.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\bin\Debug\ModifyingBitsOfANumber.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\bin\Debug\ModifyingBitsOfANumber.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\obj\Debug\ModifyingBitsOfANumber.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ModifyingBitsOfANumber\obj\Debug\ModifyingBitsOfANumber.pdb

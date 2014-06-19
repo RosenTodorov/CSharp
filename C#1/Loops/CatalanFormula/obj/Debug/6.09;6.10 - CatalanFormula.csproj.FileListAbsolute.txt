@@ -1,0 +1,3 @@
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\bin\Debug\CatalanFormula.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\obj\Debug\CatalanFormula.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CatalanFormula\obj\Debug\CatalanFormula.pdb

@@ -1,0 +1,9 @@
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\obj\Debug\Operators.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\obj\Debug\Operators.pdb
+D:\Telerik\Homework\New Folder\3\Operators\Operators\bin\Debug\Operators.exe.config
+D:\Telerik\Homework\New Folder\3\Operators\Operators\obj\Debug\Operators.exe
+D:\Telerik\Homework\New Folder\3\Operators\Operators\obj\Debug\Operators.pdb
+D:\Telerik\Homework\New Folder\3\Operators\Operators\bin\Debug\Operators.exe
+D:\Telerik\Homework\New Folder\3\Operators\Operators\bin\Debug\Operators.pdb
+D:\Telerik\Homework\New Folder\3\Operators\Operators\obj\Debug\01_OddEven.csprojResolveAssemblyReference.cache

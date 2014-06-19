@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ObjectVariable\bin\Debug\ObjectVariable.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ObjectVariable\bin\Debug\ObjectVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ObjectVariable\bin\Debug\ObjectVariable.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ObjectVariable\obj\Debug\ObjectVariable.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\ObjectVariable\obj\Debug\ObjectVariable.pdb

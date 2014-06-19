@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\bin\Debug\10 members of the sequence.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\bin\Debug\10 members of the sequence.exe
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\bin\Debug\10 members of the sequence.pdb
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\obj\Debug\10 members of the sequence.exe
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\obj\Debug\10 members of the sequence.pdb
+d:\user\documents\visual studio 2012\Projects\intro\10 members of the sequence\obj\Debug\10 members of the sequence.csprojResolveAssemblyReference.cache

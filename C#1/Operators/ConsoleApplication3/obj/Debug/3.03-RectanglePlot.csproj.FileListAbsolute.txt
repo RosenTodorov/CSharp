@@ -1,0 +1,8 @@
+D:\Telerik\Homework\New Folder\3\Operators\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Telerik\Homework\New Folder\3\Operators\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Telerik\Homework\New Folder\3\Operators\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb

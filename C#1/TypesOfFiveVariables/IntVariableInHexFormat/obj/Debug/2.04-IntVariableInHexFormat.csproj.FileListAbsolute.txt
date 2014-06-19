@@ -1,0 +1,1 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\IntVariableInHexFormat\bin\Debug\IntVariableInHexFormat.exe.config

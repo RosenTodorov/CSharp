@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe.config
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.pdb
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.exe
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.pdb

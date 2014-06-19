@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\obj\Debug\4.11 - FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\FallingRocks\obj\Debug\FallingRocks.pdb

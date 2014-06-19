@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2012\Projects\intro\numbers\bin\Debug\numbers.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\numbers\bin\Debug\numbers.exe
+d:\user\documents\visual studio 2012\Projects\intro\numbers\bin\Debug\numbers.pdb
+d:\user\documents\visual studio 2012\Projects\intro\numbers\obj\Debug\numbers.exe
+d:\user\documents\visual studio 2012\Projects\intro\numbers\obj\Debug\numbers.pdb

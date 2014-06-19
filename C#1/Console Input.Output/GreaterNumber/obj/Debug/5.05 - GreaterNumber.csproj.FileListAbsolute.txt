@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\obj\Debug\5.05 - GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\GreaterNumber\obj\Debug\GreaterNumber.pdb

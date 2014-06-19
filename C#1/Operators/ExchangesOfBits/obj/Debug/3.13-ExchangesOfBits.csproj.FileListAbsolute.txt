@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\bin\Debug\ExchangesOfBits.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\bin\Debug\ExchangesOfBits.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\bin\Debug\ExchangesOfBits.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\obj\Debug\ExchangesOfBits.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\obj\Debug\ExchangesOfBits.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\ExchangesOfBits\obj\Debug\3.13-ExchangesOfBits.csprojResolveAssemblyReference.cache

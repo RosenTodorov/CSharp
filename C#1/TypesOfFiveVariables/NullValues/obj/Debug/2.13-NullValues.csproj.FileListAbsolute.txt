@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\NullValues\bin\Debug\NullValues.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\NullValues\bin\Debug\NullValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\NullValues\bin\Debug\NullValues.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\NullValues\obj\Debug\NullValues.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\NullValues\obj\Debug\NullValues.pdb

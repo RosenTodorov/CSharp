@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\bin\Debug\GivenNumberIaPrime.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\bin\Debug\GivenNumberIaPrime.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\bin\Debug\GivenNumberIaPrime.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\obj\Debug\3.07-GivenNumberIsPrime.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\obj\Debug\GivenNumberIaPrime.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenNumberIaPrime\obj\Debug\GivenNumberIaPrime.pdb

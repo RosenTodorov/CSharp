@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\bin\Debug\GivenPointWithinCircleAndRectangle.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\bin\Debug\GivenPointWithinCircleAndRectangle.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\bin\Debug\GivenPointWithinCircleAndRectangle.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\obj\Debug\3.09-GivenPointWithinCircleAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\obj\Debug\GivenPointWithinCircleAndRectangle.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\GivenPointWithinCircleAndRectangle\obj\Debug\GivenPointWithinCircleAndRectangle.pdb

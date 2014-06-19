@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\bin\Debug\CompanyAndManager.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\bin\Debug\CompanyAndManager.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\bin\Debug\CompanyAndManager.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\obj\Debug\4.03 - CompanyAndManager.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\obj\Debug\CompanyAndManager.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\CompanyAndManager\obj\Debug\CompanyAndManager.pdb

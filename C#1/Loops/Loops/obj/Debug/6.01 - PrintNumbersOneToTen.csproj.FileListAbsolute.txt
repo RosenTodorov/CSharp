@@ -1,0 +1,9 @@
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe.config
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.exe
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\bin\Debug\Loops.pdb
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\6.01 - PrintNumbersOneToTen.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.exe
+d:\user\documents\visual studio 2012\Projects\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Rosen\Desktop\Telerik\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\Loops\obj\Debug\Loops.pdb

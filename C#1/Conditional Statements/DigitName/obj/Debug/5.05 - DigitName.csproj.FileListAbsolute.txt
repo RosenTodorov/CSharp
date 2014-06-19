@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\bin\Debug\DigitName.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\bin\Debug\DigitName.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\bin\Debug\DigitName.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\obj\Debug\5.05 - DigitName.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\obj\Debug\DigitName.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\DigitName\obj\Debug\DigitName.pdb

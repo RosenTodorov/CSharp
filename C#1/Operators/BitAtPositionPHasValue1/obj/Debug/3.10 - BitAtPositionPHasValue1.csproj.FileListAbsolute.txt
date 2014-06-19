@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\bin\Debug\BitAtPositionPHasValue1.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\bin\Debug\BitAtPositionPHasValue1.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\bin\Debug\BitAtPositionPHasValue1.pdb
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\obj\Debug\3.10 - BitAtPositionPHasValue1.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\obj\Debug\BitAtPositionPHasValue1.exe
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\Operators\BitAtPositionPHasValue1\obj\Debug\BitAtPositionPHasValue1.pdb

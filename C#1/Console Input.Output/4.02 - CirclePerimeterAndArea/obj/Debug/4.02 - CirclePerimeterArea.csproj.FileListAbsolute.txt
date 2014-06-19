@@ -1,0 +1,12 @@
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.exe.config
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.exe
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.pdb
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterAndArea.exe
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterAndArea.pdb
+d:\user\documents\visual studio 2012\Projects\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterArea.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterAndArea.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterAndArea.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\bin\Debug\4.02 - CirclePerimeterAndArea.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\4.02 - CirclePerimeterAndArea\obj\Debug\4.02 - CirclePerimeterArea.csprojResolveAssemblyReference.cache

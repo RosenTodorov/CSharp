@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\bin\Debug\CalucaltingSumXandN.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\bin\Debug\CalucaltingSumXandN.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\bin\Debug\CalucaltingSumXandN.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\obj\Debug\6.06 - CalucaltingSumXandN.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\obj\Debug\CalucaltingSumXandN.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\CalucaltingSumXandN\obj\Debug\CalucaltingSumXandN.pdb

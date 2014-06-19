@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\obj\Debug\5.08 - ChoiceForInput.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\bin\Debug\ChoiceForInput.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\bin\Debug\ChoiceForInput.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\bin\Debug\ChoiceForInput.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\obj\Debug\ChoiceForInput.exe
+c:\users\rosen\documents\visual studio 2012\Projects\ConsoleApplication1\ChoiceForInput\obj\Debug\ChoiceForInput.pdb

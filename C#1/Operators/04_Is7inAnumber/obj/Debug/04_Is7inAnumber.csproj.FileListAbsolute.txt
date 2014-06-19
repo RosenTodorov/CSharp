@@ -1,0 +1,8 @@
+c:\users\usr\documents\visual studio 2012\Projects\Operators\04_Is7inAnumber\bin\Debug\04_Is7inAnumber.exe.config
+c:\users\usr\documents\visual studio 2012\Projects\Operators\04_Is7inAnumber\bin\Debug\04_Is7inAnumber.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\04_Is7inAnumber\bin\Debug\04_Is7inAnumber.pdb
+c:\users\usr\documents\visual studio 2012\Projects\Operators\04_Is7inAnumber\obj\Debug\04_Is7inAnumber.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\04_Is7inAnumber\obj\Debug\04_Is7inAnumber.pdb
+D:\Telerik\Homework\New Folder\3\Operators\04_Is7inAnumber\bin\Debug\04_Is7inAnumber.exe.config
+D:\Telerik\Homework\New Folder\3\Operators\04_Is7inAnumber\obj\Debug\04_Is7inAnumber.exe
+D:\Telerik\Homework\New Folder\3\Operators\04_Is7inAnumber\obj\Debug\04_Is7inAnumber.pdb

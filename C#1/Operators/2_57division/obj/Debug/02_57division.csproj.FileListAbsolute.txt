@@ -1,0 +1,9 @@
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\bin\Debug\2_57division.exe.config
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\bin\Debug\2_57division.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\bin\Debug\2_57division.pdb
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\obj\Debug\02_57division.csprojResolveAssemblyReference.cache
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\obj\Debug\2_57division.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\2_57division\obj\Debug\2_57division.pdb
+D:\Telerik\Homework\New Folder\3\Operators\2_57division\bin\Debug\2_57division.exe.config
+D:\Telerik\Homework\New Folder\3\Operators\2_57division\obj\Debug\2_57division.exe
+D:\Telerik\Homework\New Folder\3\Operators\2_57division\obj\Debug\2_57division.pdb

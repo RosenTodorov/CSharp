@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\bin\Debug\NumbersDividedBy5.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\obj\Debug\4.04 - NumbersDividedBy5.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\bin\Debug\NumbersDividedBy5.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\bin\Debug\NumbersDividedBy5.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\obj\Debug\NumbersDividedBy5.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\NumbersDividedBy5\obj\Debug\NumbersDividedBy5.pdb

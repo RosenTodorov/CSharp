@@ -1,0 +1,6 @@
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\bin\Debug\Operators.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\bin\Debug\Operators.pdb
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\obj\Debug\Operators.exe
+c:\users\usr\documents\visual studio 2012\Projects\Operators\Operators\obj\Debug\Operators.pdb

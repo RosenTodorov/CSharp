@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe.config
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.pdb
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\obj\Debug\6.03 - MinAndMaxNumber.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.exe
+d:\user\documents\visual studio 2012\Projects\Loops\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.pdb

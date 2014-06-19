@@ -1,0 +1,12 @@
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\obj\Debug\6.13 - TrailingZeroes.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+D:\user\Documents\Visual Studio 2012\Projects\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+C:\Users\Rosen\Desktop\Telerik\Loops\TrailingZeroes\obj\Debug\6.13 - TrailingZeroes.csprojResolveAssemblyReference.cache

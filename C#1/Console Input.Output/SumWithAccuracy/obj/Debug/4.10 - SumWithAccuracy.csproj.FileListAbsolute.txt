@@ -1,0 +1,5 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\SumWithAccuracy\bin\Debug\SumWithAccuracy.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\SumWithAccuracy\bin\Debug\SumWithAccuracy.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\SumWithAccuracy\obj\Debug\SumWithAccuracy.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\SumWithAccuracy\obj\Debug\SumWithAccuracy.pdb

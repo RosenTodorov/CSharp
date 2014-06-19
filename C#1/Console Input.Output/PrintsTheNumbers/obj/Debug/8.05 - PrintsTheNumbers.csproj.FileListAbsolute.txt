@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\bin\Debug\PrintsTheNumbers.exe.config
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\bin\Debug\PrintsTheNumbers.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\bin\Debug\PrintsTheNumbers.pdb
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\obj\Debug\8.05 - PrintsTheNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\obj\Debug\PrintsTheNumbers.exe
+C:\Users\Rosen\Desktop\Telerik\Telerik\4.01 - Read3IntegerPrintSum\PrintsTheNumbers\obj\Debug\PrintsTheNumbers.pdb

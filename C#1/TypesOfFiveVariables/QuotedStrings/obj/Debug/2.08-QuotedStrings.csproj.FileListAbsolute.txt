@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\QuotedStrings\bin\Debug\QuotedStrings.exe.config
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\QuotedStrings\bin\Debug\QuotedStrings.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\QuotedStrings\bin\Debug\QuotedStrings.pdb
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\QuotedStrings\obj\Debug\QuotedStrings.exe
+c:\users\rosen\documents\visual studio 2012\Projects\TypesOfFiveVariables\QuotedStrings\obj\Debug\QuotedStrings.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\bin\Debug\how old you will be after 10 years.exe.config
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\obj\Debug\how old you will be after 10 years.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\bin\Debug\how old you will be after 10 years.exe
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\bin\Debug\how old you will be after 10 years.pdb
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\obj\Debug\how old you will be after 10 years.exe
+d:\user\documents\visual studio 2012\Projects\intro\how old you will be after 10 years\obj\Debug\how old you will be after 10 years.pdb
